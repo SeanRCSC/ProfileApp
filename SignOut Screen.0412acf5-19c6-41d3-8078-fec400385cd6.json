@@ -57,6 +57,36 @@
     },
     "children": [
         {
+            "type": "AdMobBanner",
+            "label": "AdMob Banner",
+            "translatedName": "AdMob Banner",
+            "properties": {
+                "Visible": true,
+                "AdUnitID": "ca-app-pub-3940256099942544/6300978111",
+                "AdUnitID_iOS": "ca-app-pub-3940256099942544/6300978111",
+                "TestMode": true,
+                "Width": 375,
+                "Height": 32,
+                "X": -2,
+                "ParentId": "0412acf5-19c6-41d3-8078-fec400385cd6",
+                "Y": 632.1875,
+                "RelativeX": -2,
+                "RelativeY": 632,
+                "position": "absolute",
+                "edgeOffsets": 632.1875,
+                "style": {
+                    "position": "absolute",
+                    "left": "33.2%",
+                    "top": "64.49587706146927%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "4fb18cc6-d872-4dd4-a59b-26af525d99ed",
+            "thunkableVersion": 423,
+            "name": "AdMob_Banner2"
+        },
+        {
             "type": "Image",
             "translatedName": "Image",
             "properties": {
@@ -66,9 +96,9 @@
                 "Width": 165,
                 "Visible": true,
                 "X": 98,
-                "Y": 489,
+                "Y": 459,
                 "RelativeX": 98,
-                "RelativeY": 489,
+                "RelativeY": 459,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -95,7 +125,7 @@
                 "capInsets": {},
                 "ParentId": "0412acf5-19c6-41d3-8078-fec400385cd6",
                 "position": "absolute",
-                "edgeOffsets": 489
+                "edgeOffsets": 459
             },
             "children": [],
             "id": "f3c96257-39a7-45f4-8407-de8f4c8365d7",
@@ -161,10 +191,10 @@
                 "Height": 67,
                 "Width": 262,
                 "Visible": true,
-                "X": 57,
-                "Y": 406,
-                "RelativeX": 57,
-                "RelativeY": 406,
+                "X": 55,
+                "Y": 367,
+                "RelativeX": 55,
+                "RelativeY": 367,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -195,7 +225,7 @@
                 "Disabled": false,
                 "ParentId": "0412acf5-19c6-41d3-8078-fec400385cd6",
                 "position": "absolute",
-                "edgeOffsets": 406
+                "edgeOffsets": 367
             },
             "children": [],
             "id": "e97b1fb3-2ec5-479a-a038-8a0dc4f0452a",
@@ -279,10 +309,10 @@
                 "Height": 65,
                 "Width": 258,
                 "Visible": true,
-                "X": 58,
-                "Y": 315,
-                "RelativeX": 58,
-                "RelativeY": 315,
+                "X": 57,
+                "Y": 282,
+                "RelativeX": 57,
+                "RelativeY": 282,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -313,7 +343,7 @@
                 "Disabled": false,
                 "ParentId": "0412acf5-19c6-41d3-8078-fec400385cd6",
                 "position": "absolute",
-                "edgeOffsets": 315
+                "edgeOffsets": 282
             },
             "children": [],
             "id": "528fffb4-47cd-470b-a4a6-dd2d455b0534",
